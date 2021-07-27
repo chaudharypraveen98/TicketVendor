@@ -41,3 +41,6 @@ Simple add the ticket_id or Person name or Seat no in the url and it will give a
     "SEATNUM": "A2"
 }`
 
+#### Note  
+Feel free to make changes and give suggestions. All pull request are most welcomed
+
